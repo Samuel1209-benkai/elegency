@@ -10,15 +10,15 @@ const cardData =
     {
         id : 2,
         img :" Elegency/Rectangle4.svg",
-        name:"Tabla africa women",
-        price: "1000",
+        name:"Africa moel",
+        price: "1500",
     },
     
     {
         id : 3,
         img :"Elegency/Rectangle5.svg",
-        name:"Tabla africa women",
-        price: "1000",
+        name:"African gorbi",
+        price: "2000",
     },
     {
         id : 4,
@@ -29,15 +29,15 @@ const cardData =
     {
         id : 5,
         img :" Elegency/Rectangle4.svg",
-        name:"Tabla africa women",
-        price: "1000",
+        name:"Africa model",
+        price: "1500",
     },
     
     {
         id : 6,
         img :"Elegency/Rectangle5.svg",
-        name:"Tabla africa women",
-        price: "1000",
+        name:"African gorbi",
+        price: "2000",
     },
 
 ]
